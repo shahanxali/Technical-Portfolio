@@ -746,6 +746,14 @@ body {
   }
 }
 
+/* @media all and (max_width: 500px) {
+
+  .candle1{
+    width: 20px;
+  }
+  
+} */
+
 
 
 .codea{
