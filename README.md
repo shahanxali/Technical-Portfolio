@@ -1,5 +1,7 @@
-# Technical-Portfolio
+# Portfolio
 
-This one here it my Technical Portfolio designed to showcase my skills for the companies, yet a little low to show but i tried
+Technical Portfolio designed in HTML, CSS, JavaScript, used frameworks like Bootstrap and sass.
+The Portfolio Gives details about myself, the projects I made, my educational background and many more.
 
+# Deployed: 
 Here is the deployed versio: https://shahanxali.github.io/Technical-Portfolio/
